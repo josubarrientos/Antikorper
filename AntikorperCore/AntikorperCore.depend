@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1418139507 source:/home/josu/CodeBlocks/Antikorper/antikorpercore.c
+	<pcap.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+
+1418139507 source:/home/josu/CodeBlocks/AntikorperCore/antikorpercore.c
+	<pcap.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+

@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1410888827 source:/home/josu/BlocksLibrary/Antikorper/antikorpercore.c
+	<pcap.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netinet/if_ether.h>
+	<netinet/tcp.h>
+	<netinet/ip.h>
+	<string.h>
+
+1417366373 source:/home/josu/CodeBlocks/Antikorper/antikorpercore.c
+	<pcap.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<netinet/in.h>
+	<string.h>
+	<stdlib.h>
+
+1418140426 source:/home/josu/CodeBlocks/AntikorperAP/antikorpercore.c
+	<pcap.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<netinet/in.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+
